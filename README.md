@@ -1,5 +1,5 @@
 # PERStance: Personality-guided enhanced multimodal stance detection
-<!-- ![architecture](https://github.com/JNCS-NLP-LLK/-/blob/main/KG-Prompt.png) -->
+<!-- ![architecture](https://github.com/jncsnlp/PERStance/blob/main/framework.png) -->
 
 This repository contains the official PyTorch implementation code for Personality-guided enhanced multimodal stance detection: <a href="https://www.sciencedirect.com/science/article/pii/S0306457325005345?ref=pdf_download&fr=RR-4&rr=9d75c10a6be26b86">PERStance</a>.
 
