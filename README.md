@@ -48,7 +48,7 @@ TMPT on zero-shot stance detection on mtse dataset:
 The method proposed in our paper:
 
 ```
-perstance_mian.py
+perstance_main.py
 ```
 
 ## Acknowledgement
